@@ -1,2 +1,3 @@
-# PaulGeetham
-Readm.me
+# Paul Geetham
+
+Here are some ideas...
